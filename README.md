@@ -7,4 +7,4 @@ Snapshot：
 
 ![snapshot](https://github.com/bullda/AndroidJiaThis/raw/master/snapshot/001.png)
 
-![snapshot](https://github.com/bullda/AndroidJiaThis/raw/master/snapshot/001.png)
+![snapshot](https://github.com/bullda/AndroidJiaThis/raw/master/snapshot/002.png)
